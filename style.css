@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(78, 172, 172);
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    font-size: 50px;
+    height: 40px;
+}
+
+.aboutme {
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    border: 5px solid blue;
+    width: 700px;
+    height: auto;
+}
+
+.myinfo {
+    text-align: center;
+    margin-top: 20px;
+}
+
+a {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: larger;
+    margin: 20px; 
+}
